@@ -1,1 +1,1 @@
-Hi Richa this  side and this is my first sample project for learning git  and  github.
+Hi Suhani  this  side and this is my first project for learning git  and  github.
