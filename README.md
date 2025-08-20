@@ -1,1 +1,1 @@
-this is both alice and bob  intro.
+intro of both alice and bob.
