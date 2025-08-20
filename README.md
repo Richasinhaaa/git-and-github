@@ -1,4 +1,1 @@
-Hi, this is Bob’s version.
-
-
-
+this is both alice and bob  intro.
