@@ -1,1 +1,2 @@
-Hi Richa this side and this is my first project for learning git and github.
+Hi, this is Alice’s version.
+
